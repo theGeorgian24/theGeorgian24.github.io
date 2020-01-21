@@ -7,9 +7,7 @@
 </head>
 <body>
   <h1>Week 1</h1>
-  <script> src="https://docs.google.com/document/d/1Z9bing6g51GYUJlQJJPxS2hDdKyP16B4ZpT5Ib9uKE4/edit?usp=sharing">
-
-  </script>
+  <a href="https://docs.google.com/document/d/1Z9bing6g51GYUJlQJJPxS2hDdKyP16B4ZpT5Ib9uKE4/edit?usp=sharing">Week 1</a>
 </body>
 </html>
 © 2020 GitHub, Inc.
