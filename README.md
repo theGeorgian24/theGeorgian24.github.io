@@ -7,8 +7,7 @@
 </head>
 <body>
   <h1>Week 1</h1>
-  <p>Hello World</p>
-  <script src="https://docs.google.com/document/d/1Z9bing6g51GYUJlQJJPxS2hDdKyP16B4ZpT5Ib9uKE4/edit?usp=sharing">
+  <script> src="https://docs.google.com/document/d/1Z9bing6g51GYUJlQJJPxS2hDdKyP16B4ZpT5Ib9uKE4/edit?usp=sharing">
 
   </script>
 </body>
