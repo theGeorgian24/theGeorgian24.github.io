@@ -1,4 +1,4 @@
-# theGeorgian24.github.io
+# CS 161 Homework
 <!DOCTYPE html>
 <html>
 <title<CS 161 WEEK 01</title>
