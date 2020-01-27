@@ -9,6 +9,7 @@
   <h2>Week 1</h2>
   <a href="https://docs.google.com/document/d/1Z9bing6g51GYUJlQJJPxS2hDdKyP16B4ZpT5Ib9uKE4/edit?usp=sharing">Week 1</a>
   <h2>Week 2</h2>
+  <a href="https://docs.google.com/document/d/19GFM_wbvIIT01x-hZDaNJOCVvs_yubYYbzDFeHCap3Y/edit?usp=sharing">Week 2</a>
 </body>
 </html>
 
